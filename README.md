@@ -1,8 +1,14 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ishwari.</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi,+I'm+Ishwari!;" />
+</h1>
+
+</h1>
+</h1>
 <h3 align="center">Passionate about designing and developing user-centric websites.</h3>
 
-- 💻
-Hi, I'm Ishwari, a highly motivated and ambitious sophomore at VIIT Pune with a strong passion for technology. My main interests lie in web development and building apps to solve real-world problems. I'm currently exploring the world of open source and excited to contribute to impactful projects.
+💻
+Hi, I'm Ishwari a highly motivated and ambitious sophomore at VIIT Pune with a strong passion for technology. My main interests lie in web development and building apps to solve real-world problems. I'm currently exploring the world of open source and excited to contribute to impactful projects.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -12,7 +18,7 @@ Hi, I'm Ishwari, a highly motivated and ambitious sophomore at VIIT Pune with a 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwariiic&label=Profile%20views&color=0e75b6&style=flat" alt="ishwariiic" /> </p>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </h3>
 <p align="left">
   <a href="https://linkedin.com/in/ishwariii-c-90751a260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishwariii-c-90751a260" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ishwariiiic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishwariiiic" height="30" width="40" /></a>
