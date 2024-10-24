@@ -5,7 +5,7 @@
 
 </h1>
 </h1>
-<h3 align="center">Passionate about designing and developing user-centric websites.</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>Passionate about designing and developing user-centric websites.<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="42px"/></h3>
 
 💻
 Hi, I'm Ishwari a highly motivated and ambitious sophomore at VIIT Pune with a strong passion for technology. My main interests lie in web development and building apps to solve real-world problems. I'm currently exploring the world of open source and excited to contribute to impactful projects.
