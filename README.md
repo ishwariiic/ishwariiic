@@ -33,4 +33,5 @@ Hi, I'm Ishwari a highly motivated and ambitious sophomore at VIIT Pune with a s
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwariiic&" alt="ishwariiic" /></p>
 <hr>
+<img alt="gif" src="https://i.pinimg.com/originals/44/ae/10/44ae10304a95974406107e9c054be0f4.gif"/>
 
