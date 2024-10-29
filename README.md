@@ -42,6 +42,7 @@ Hi, I'm Ishwari a highly motivated and ambitious sophomore at VIIT Pune with a s
 
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=ishwariiic&show_icons=true&locale=en&theme=radical" alt="ishwariiic" style="animation: fadeIn 2s ease-in-out;" />
+    <br>
 </p>
 <p align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwariiic&theme=radical" alt="ishwariiic" style="animation: fadeIn 2s ease-in-out;" />
