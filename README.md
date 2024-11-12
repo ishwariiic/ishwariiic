@@ -10,7 +10,7 @@
 💻
 Hi, I'm Ishwari a highly motivated and ambitious sophomore at VIIT Pune with a strong passion for technology. My main interests lie in web development and building apps to solve real-world problems. I'm currently exploring the world of open source and excited to contribute to impactful projects.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🔭 I’m currently working on [Secure Together](https://securetogether.vercel.app/)
 
